@@ -2,17 +2,17 @@
 
 ## Features
 - Mock Authentication
-- API Data Fetching
+- API Integration
 - Search Users
 - Responsive UI
+
+## Login
+admin@test.com
+123456
 
 ## Setup
 npm install
 npm run dev
 
-## Login Credentials
-admin@test.com
-123456
-
-## Deployment
-Deployed on Vercel
+## Build
+npm run build
